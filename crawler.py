@@ -1,5 +1,5 @@
 '''
-Small script that crawls through IKEA catalog and finds title and descriptions of goods
+Small script that crawls through russian IKEA catalog and finds titles and descriptions of goods
 '''
 
 import re
